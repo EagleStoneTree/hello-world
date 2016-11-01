@@ -1,4 +1,8 @@
 # hello-world
-ideas for new projects:
+#### Ideas for new projects
 - myCalendar
 - the swabian housewife
+
+#### Useful links
+- [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
+- [GitHub Flow ](https://guides.github.com/introduction/flow/)
